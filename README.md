@@ -1,2 +1,2 @@
-# python-notes2
-Notes pour la formation Puthon
+# Readme
+### Notes pour la formation _Python_
